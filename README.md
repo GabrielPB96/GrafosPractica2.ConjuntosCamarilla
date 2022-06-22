@@ -35,3 +35,25 @@ Para obtener el número clique la haremos al mismo tiempo que obtenemos los subg
 
 # Resultados
 
+## Grafo 1
+
+|              <center>Grafo</center>          |  <center>Consola</center>     |
+|-------------------------------|-------------|
+| ![dibujo grafo](./assets/graph2.png)   | ![mostrar grafo](./assets/console2.png)   |
+
+<hr/>
+
+## Grafo 2
+
+|              <center>Grafo</center>          |  <center>Consola</center>     |
+|-------------------------------|-------------|
+| ![dibujo grafo](./assets/graph1.png)   | ![mostrar grafo](./assets/console1.png)   |
+
+<hr/>
+
+## Grafo 3
+
+|              <center>Grafo</center>          |  <center>Consola</center>     |
+|-------------------------------|-------------|
+| ![dibujo grafo](./assets/graph3.png)   | ![mostrar grafo](./assets/console3.png)   |
+
